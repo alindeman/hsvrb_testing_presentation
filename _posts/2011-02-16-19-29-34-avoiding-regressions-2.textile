@@ -1,4 +1,4 @@
-h1. Avoiding Regressions
+h1. Avoid Regressions
 
 Instead of fixing it immediately, first write a test:
 

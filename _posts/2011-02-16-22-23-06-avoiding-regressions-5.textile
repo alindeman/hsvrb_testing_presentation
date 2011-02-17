@@ -1,4 +1,4 @@
-h1. Avoiding Regressions
+h1. Avoid Regressions
 
 Watch the test pass:
 

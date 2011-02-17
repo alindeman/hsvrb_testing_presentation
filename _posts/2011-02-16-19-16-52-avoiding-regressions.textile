@@ -1,4 +1,4 @@
-h1. Avoiding Regressions
+h1. Avoid Regressions
 
 Imagine you find a bug in a method:
 
