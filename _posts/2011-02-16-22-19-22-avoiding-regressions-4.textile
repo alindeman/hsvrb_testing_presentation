@@ -1,0 +1,12 @@
+h1. Avoiding Regressions
+
+Fix the code:
+
+{% highlight ruby %}
+def factorial(n)
+  result = 1
+  2.upto(n) { |i| result *= i } # much better!
+
+  result
+end
+{% endhighlight %}

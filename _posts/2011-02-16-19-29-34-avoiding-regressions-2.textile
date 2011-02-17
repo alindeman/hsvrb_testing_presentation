@@ -1,0 +1,11 @@
+h1. Avoiding Regressions
+
+Instead of fixing it immediately, first write a test:
+
+{% highlight ruby %}
+class FactorialTest < Test::Unit::TestCase
+  def test_factorial_7_is_5040
+    assert_equal 5040, factorial(7)
+  end
+end
+{% endhighlight %}

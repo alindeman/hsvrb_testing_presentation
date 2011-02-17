@@ -1,0 +1,6 @@
+h1. Why Write Unit Tests?
+
+* Help avoid regressions
+* Allow confident refactoring
+* "Documentation"
+* Drive good design (TDD/BDD)

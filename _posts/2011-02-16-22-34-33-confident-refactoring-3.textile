@@ -1,0 +1,9 @@
+h1. Confident Refactoring
+
+Refactored:
+
+{% highlight ruby %}
+def factorial(n)
+  (2..n).inject(1, :*)
+end
+{% endhighlight %}

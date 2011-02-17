@@ -1,0 +1,4 @@
+h1. Confident Refactoring
+
+* Really and truly allows you to "clean up later"
+* Nice way to refactor a legacy system: write tests against the old system, refactor, make sure they still pass

@@ -1,0 +1,9 @@
+h1. Unit Testing in Ruby
+
+h2. Andy Lindeman
+
+<div class="center">
+"@alindeman":http://twitter.com/alindeman
+
+"http://adml.us/":http://adml.us/
+</div>

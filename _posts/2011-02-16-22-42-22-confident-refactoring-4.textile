@@ -1,0 +1,7 @@
+h1. Confident Refactoring
+
+Does it still work?  Just rerun the tests!
+
+{% highlight bash %}
+3 tests, 3 assertions, 0 failures, 0 errors
+{% endhighlight %}

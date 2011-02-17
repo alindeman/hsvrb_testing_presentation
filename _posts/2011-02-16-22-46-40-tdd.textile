@@ -1,0 +1,9 @@
+h1. Test-Driven Development
+
+To implement a new feature:
+
+# Write a test
+# Watch the test fail
+# Write production code
+# Run tests (go back a step until they all pass)
+# Refactor

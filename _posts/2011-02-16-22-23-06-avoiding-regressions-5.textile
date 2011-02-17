@@ -1,0 +1,7 @@
+h1. Avoiding Regressions
+
+Watch the test pass:
+
+{% highlight bash %}
+1 tests, 1 assertions, 0 failures, 0 errors
+{% endhighlight %}

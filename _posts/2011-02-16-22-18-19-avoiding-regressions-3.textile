@@ -1,0 +1,9 @@
+h1. Avoid Regressions
+
+Watch it fail:
+
+{% highlight bash %}
+  1) Failure:
+test_factorial_7_is_5040(FactorialTest) [test.rb:12]:
+<5040> expected but was <28>.
+{% endhighlight %}

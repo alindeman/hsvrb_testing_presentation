@@ -1,0 +1,4 @@
+h1. Regression Tests
+
+* Bugs can't easily crop up again without a test failing
+* Good way to start building a test suite on an existing project

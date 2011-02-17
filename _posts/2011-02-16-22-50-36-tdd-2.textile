@@ -1,0 +1,7 @@
+h1. Test-Driven Development
+
+Works for some, not for others.  But give it a shot.  Tends to:
+
+* Encourage simple design (KISS, YAGNI)
+* Inspire confidence
+* Provide an interesting workflow for pair programming

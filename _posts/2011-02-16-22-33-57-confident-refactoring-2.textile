@@ -1,0 +1,12 @@
+h1. Confident Refactoring
+
+Original implementation:
+
+{% highlight ruby %}
+def factorial(n)
+  result = 1
+  2.upto(n) { |i| result *= i }
+
+  result
+end
+{% endhighlight %}

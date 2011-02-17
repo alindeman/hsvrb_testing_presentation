@@ -1,0 +1,12 @@
+h1. Avoiding Regressions
+
+Imagine you find a bug in a method:
+
+{% highlight ruby %}
+def factorial(n)
+  result = 1
+  2.upto(n) { |i| result += i } # d'oh! this does a summation, not a factorial
+
+  result
+end
+{% endhighlight %}

@@ -1,0 +1,19 @@
+h1. Confident Refactoring
+
+Well-tested code can be refactored with less fear of accidentally breaking something
+
+{% highlight ruby %}
+class FactorialTest < Test::Unit::TestCase
+  def test_factorial_7_is_5040
+    assert_equal 5040, factorial(7)
+  end
+
+  def test_factorial_1_is_1
+    assert_equal 1, factorial(1)
+  end
+
+  def test_factorial_0_is_1
+    assert_equal 1, factorial(0)
+  end
+end
+{% endhighlight %}
